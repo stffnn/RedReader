@@ -221,8 +221,8 @@
         <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H" android:resource="@dimen/app_minimumsize_h" />
 
 		<provider
-				android:name="org.stffnn.reddreader.cache.CacheContentProvider"
-				android:authorities="org.stffnn.reddreader.cacheprovider"
+				android:name="org.quantumbadger.redreader.cache.CacheContentProvider"
+				android:authorities="org.quantumbadger.redreader.cacheprovider"
 				android:exported="false"
 				android:grantUriPermissions="true" />
     </application>
