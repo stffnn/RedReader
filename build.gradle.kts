@@ -75,7 +75,7 @@ dependencies {
 android {
 	compileSdk = libs.versions.sdk.compile.get().toInt()
 	ndkVersion = libs.versions.ndk.get()
-	namespace = "org.stffnn.reddreader"
+	namespace = "org.quantumbadger.redreader"
 
 	defaultConfig {
 		applicationId = "org.stffnn.reddreader"
